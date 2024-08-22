@@ -1,0 +1,38 @@
+[
+  {
+    "name": "arp1",
+    "beats": {
+      "0": [ { "sound": "arp_synth_C" } ],
+      "1": [ { "sound": "arp_synth_D-sharp2" } ],
+      "2": [ { "sound": "arp_synth_G" } ],
+      "3": [ { "sound": "arp_synth_D-sharp2" } ]
+    }
+  },
+  {
+    "name": "arp2",
+    "beats": {
+      "0": [ { "sound": "arp_synth_A-sharp" } ],
+      "1": [ { "sound": "arp_synth_C" } ],
+      "2": [ { "sound": "arp_synth_D-sharp2" } ],
+      "3": [ { "sound": "arp_synth_C" } ]
+    }
+  },
+  {
+    "name": "arp3",
+    "beats": {
+      "0": [ { "sound": "arp_synth_G" } ],
+      "1": [ { "sound": "arp_synth_A-sharp2" } ],
+      "2": [ { "sound": "arp_synth_D-sharp" } ],
+      "3": [ { "sound": "arp_synth_A-sharp2" } ]
+    }
+  },
+  {
+    "name": "arp4",
+    "beats": {
+      "0": [ { "sound": "arp_synth_F" } ],
+      "1": [ { "sound": "arp_synth_A-sharp" } ],
+      "2": [ { "sound": "arp_synth_C" } ],
+      "3": [ { "sound": "arp_synth_A-sharp" } ]
+    }
+  }
+]
